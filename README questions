@@ -1,0 +1,35 @@
+How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, 
+which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you 
+use this CRUD Python module in the future?
+
+  Writing programs that are maintainable, readable, and adaptable is essential for any computer scientist. This is done by writing code that is
+easy to read (it is not cluttered or unorganized). It is also important to include reader notes so that whoever is examining the code can follow
+along easily. Adaptable code allows someone to edit it when they find something wrong or something that could be done more efficiently. The CRUD
+python module helped me understand what is important when writing code. It showed me that there are different methods of doing it but there is always
+a better way. I could use the CRUD module in the future when I am struggling writing efficient code. I can look back to it when I forget what is
+important and what I can do better. It will act as a reminder that I need to do a better job communicating my intentions with my notes, and it
+helps enforce how to code like a computer scientist.
+
+
+How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested.
+How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create
+databases to meet other client requests?
+
+  I approach a problem as a computer scientist by examining exactly what the client is requesting. Once I have a clear understanding of the project, I can
+give the client ideas and approximations relating to the time it would take to complete it, budgetary concerns, security concerns, and maintenance once the
+project is completed. My approach to the final project was different than in other courses. This is because this was the first major coding project I have
+attempted here at SNHU and it required a lot of coding and understanding of both MongoDB and Jupyter Notebook. I learned a lot about Python and how to manipulate
+databases. In the future, I would remember what I learned in this course about having readable code with helpful notes. I would implement what I learned aboout
+viewing and editing databases so that I could do whatever the client would ask of me. I could sort their data into categories/groups and I could have that data
+readable as a chart or graph or even a map. I think future clients would be satisfied with the type of dashboard requested by Grazioso Salvare.
+
+
+What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+
+  Computer scientists do a variety of things. They range from cybersecurity experts to network administrators to researchers in fields like AI. It matters because
+we live in a digital age and it is here to stay forever. The world will continue shifting everything online and the need for computer scientists will only increase.
+This type of work would help companies visualize their data so they can determine the best course of action as a business. A company like Grazioso Salvare can do their
+jobs much easier when they can visualize their information and interact with it in a meaningful way. They can use this dashboard to show their clients what they do and
+make it look professional. This type of work not only helps the animal shelter business, it can help any kind of business in the world that deals with organizing data
+and the need to constantly update it. When someone approaches Grazioso Salvare to adopt an animal, the company can use the dashboard to interact with their database and
+help their customers find exactly what they're looking for.
